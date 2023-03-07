@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<playerCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <players>
+    <player player="hgnb" money="10000">
+      <UnlockedCars />
+    </player>
+    <player player="havayi player" money="10000">
+      <UnlockedCars>
+        <CarData CarID="1" CarBenzin="50" />
+      </UnlockedCars>
+    </player>
+    <player player="havsaba" money="1100000">
+      <UnlockedCars>
+        <CarData CarID="0" CarBenzin="50" />
+        <CarData CarID="1" CarBenzin="100" />
+      </UnlockedCars>
+    </player>
+    <player player="havay" money="0">
+      <UnlockedCars>
+        <CarData CarID="0" CarBenzin="100" />
+      </UnlockedCars>
+    </player>
+  </players>
+</playerCollection>

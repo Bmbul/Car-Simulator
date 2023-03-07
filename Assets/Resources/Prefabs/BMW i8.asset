@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfd11be6c0b4f4a42abcb741df3d35d0, type: 3}
+  m_Name: BMW i8
+  m_EditorClassIdentifier: 
+  id: 0
+  carName: BMW i8
+  price: 150000
+  maxSpeed: 200
+  maxSteerAngle: 50
+  turnSensitivity: 1
+  carState: 1
+  benzin: 50

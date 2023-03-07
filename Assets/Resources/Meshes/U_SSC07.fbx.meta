@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 64ff475f1e9d9c443940a05574e635aa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_02_U_SSC07_Seam_shdr
+    second: {fileID: 2100000, guid: d1957880d9acf6c4cb6c8f87e63e8776, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_02_U_SSC07_aluminium_shdr
+    second: {fileID: 2100000, guid: 2e458060596653b4795b4f91c923c3ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_02_U_SSC07_beigeFabric_shdr
+    second: {fileID: 2100000, guid: bf9a0a807b19a6741abf9570a3137538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_Leather_01_shdr
+    second: {fileID: 2100000, guid: 1b8e38c251071ee4e8265642ad21c86f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_Leather_black_shdr
+    second: {fileID: 2100000, guid: ac7d0a0ae59418a4fbba7e27d2275299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_Leather_shdr
+    second: {fileID: 2100000, guid: 423810dd3a782224da3fad5826e59d47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_Wheel_shdr
+    second: {fileID: 2100000, guid: 2156ed8600c25af42a558176b8121caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_black
+    second: {fileID: 2100000, guid: aa005a510a1e64d478dadd00dd93794a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_black_BV_shdr
+    second: {fileID: 2100000, guid: 3e43d02a90d117b4bbc83e2b3d3178eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_bottom_shdr
+    second: {fileID: 2100000, guid: 423ba75531753eb49b21c5d5821f8652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_carPaint_shdr
+    second: {fileID: 2100000, guid: 6aa26c62ebfb9cd4594f29fabc13379a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_grill_shdr
+    second: {fileID: 2100000, guid: 51869c732dfda634b86080f70fd655e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_interiorDetails_shdr
+    second: {fileID: 2100000, guid: c63130e3a55ebe741a17f4e49789a219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_lightGlass_shdr
+    second: {fileID: 2100000, guid: 95f45737096e47d41b6912eb26a18e0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_lights_ON_shdr
+    second: {fileID: 2100000, guid: 4c3a8ea0572c1f44e9635419efd1b883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_lights_shdr
+    second: {fileID: 2100000, guid: 2e867cea8da24fb4faa206a19ab9065c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_panelGauges_shdr
+    second: {fileID: 2100000, guid: 2562241f36c46344baaf80d9abeb383c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_plasticPanel_shdr
+    second: {fileID: 2100000, guid: cefd791857852c94597b57553b8dea25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_transpIcons_shdr
+    second: {fileID: 2100000, guid: ca2ad99a203179841a22cc6e62618b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_wheels_Details_shdr
+    second: {fileID: 2100000, guid: 32a3e6396500703499185a8301d056e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC07_windows_shdr
+    second: {fileID: 2100000, guid: 51399b6a8cdf2c841b5adbb42cd9c4be, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
